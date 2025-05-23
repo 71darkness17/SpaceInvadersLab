@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRealization.a CMakeFiles/Realization.dir/src/game.cpp.o
+/usr/bin/ranlib libRealization.a

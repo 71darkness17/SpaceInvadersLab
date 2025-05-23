@@ -1,0 +1,4 @@
+/home/vladimir/projects/spaceInvaders/CMakeFiles/Objects.dir
+/home/vladimir/projects/spaceInvaders/CMakeFiles/Game.dir
+/home/vladimir/projects/spaceInvaders/CMakeFiles/edit_cache.dir
+/home/vladimir/projects/spaceInvaders/CMakeFiles/rebuild_cache.dir
